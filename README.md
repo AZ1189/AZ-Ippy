@@ -1,5 +1,6 @@
-# AZ-Ippy
+﻿# AZ-Ippy
 
-Version: 1.1.14
+Version: 1.1.15
 
 Installer: AZ-Ippy-Setup.exe
+
