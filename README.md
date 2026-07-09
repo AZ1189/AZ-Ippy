@@ -2,9 +2,9 @@
 
 Public installer-only repository for AZ-Ippy.
 
-Version: 1.0.2
+Version: 1.0.3
 Installer: AZ-Ippy-Setup.exe
-Release notes: Version 1.0.2. Publishes the current installer set one patch version ahead of 1.0.1, with installer-only GitHub releases and source code kept local-only.
-SHA-256: 859DBC33F27E5ABB2310A2DD7BFD5F3E50982167A668FD62AB40C9C73A9DA9B9
+Release notes: Version 1.0.3. Adds Light, Dark, and System theme controls to the Settings ribbon area across AZ apps, with refreshed installer-only GitHub releases and source code kept local-only.
+SHA-256: 0709917A6664E2B326D7B73D2B77CB1A8D404C3D441CD8BC8DCE030E5D508972
 
 Source code stays local-only and is not published in this repository.
